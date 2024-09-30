@@ -11,8 +11,11 @@ Abra o notebook PROJETO-Weather_Regression.ipynb em um ambiente como Jupyter Not
 ### Inserir os Datasets:
 
 Existem dois datasets utilizados no projeto:
+
 Weather_Dataset.csv: O dataset original, sem modificações.
+
 Updated_Weather_Dataset.csv: O dataset que foi modificado com a criação de variáveis dummies e normalização de variáveis contínuas.
+
 Certifique-se de que ambos os arquivos CSV estejam disponíveis no mesmo diretório que o notebook ou faça o upload para o ambiente de execução (por exemplo, Google Colab).
 
 ### Executar o Notebook:
