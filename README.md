@@ -1,7 +1,8 @@
 # Previsão da Temperatura Máxima Usando Regressão Linear
 ## Integrantes do Grupo:
-Leonardo Henrique de Oliveira Matos , RA: 10389516)
-Victor Junqueira Colombaro, RA: 10395711)
+Leonardo Henrique de Oliveira Matos , RA: 10389516
+
+Victor Junqueira Colombaro, RA: 10395711
 
 ## Instruções para Abertura do Notebook
 ### Abrir o Notebook:
